@@ -1,5 +1,5 @@
-var age = 20
-let name = "Jake"
+var age = 33
+let name = "Richard"
 const hungry = true
 
 name = "Bobby"
